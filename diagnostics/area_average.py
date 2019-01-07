@@ -132,3 +132,4 @@ def area_average(var,rad,lon,lat):
     
     #Return area-averaged array with the same units as the input variable
     return var_avg * var.units
+
